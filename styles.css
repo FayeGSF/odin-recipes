@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(241, 214, 230);
+}
+
+.header{
+    font-size: 38px;
+    color:rgb(219, 105, 52);
+    font-family: "Lucida Handwriting","Brush Script MT", cursive ;
+    text-align: center;
+    padding: 10px;
+}
+
+.content{
+    text-align: center;
+    text-decoration: none;
+   
+}
+.content a{ 
+    display:block;
+    width:600px;
+    text-align:center;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(17, 98, 104);
+    padding:20px;
+    background-color: antiquewhite;
+    margin: auto;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(247, 126, 82);
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.description{
+    font-size:18px;
+    font-family: "Lucida Handwriting","Brush Script MT", cursive;
+    font-weight: bold;
+    color: rgb(119, 61, 7);
+    text-align: center;
+    display:block;
+}
+h2{
+    font: "Lucida Handwriting","Brush Script MT", cursive;
+    font-size: 30px;
+    color: brown;
+    margin:3px auto;
+
+}
+
+div{
+    font:"Lucida Handwriting","Brush Script MT", cursive; 
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+.ingredients{
+    color: rgb(75, 1, 32);
+    font-family:"Lucida Handwriting","Brush Script MT", cursive;
+    font-size: 18px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: bisque;
+    border-width: 3px;
+    border-style: solid;
+    border-color: orangered;
+    padding-bottom: 20px;
+
+}
+
+
+
+
+.method{
+    color: rgb(75, 1, 32);
+    font-family:"Lucida Handwriting","Brush Script MT", cursive;
+    font-size: 18px; 
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 40px;
+    background-color: bisque;
+    border-width: 3px;
+    border-style: solid;
+    border-color: orangered;
+    padding-bottom: 20px;
+    padding-top:2px;
+}
+.return a{
+    display:block;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Brush Script MT","Lucida Handwriting",cursive ;
+    color: rgb(247, 97, 97);
+    text-decoration: none !important;
+    font-weight: bold;
+    background-color: rgb(174, 205, 245);
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+    height:auto;
+    width: 150px;
+    border-color: rgb(233, 97, 18);
+    border-width:3px;
+    border-style: groove;
+    
+}
+
